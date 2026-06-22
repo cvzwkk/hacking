@@ -1,4 +1,4 @@
-# GTA-V PC - Unlimited Money without Mod Menu
+# GTA-V Online PC - Unlimited Money without Mod Menu
 
 - 1: Download Cheat Engine latest version
 - 2: Buy a random vehicle, (To reduce ban chances, pay the higher pricd
