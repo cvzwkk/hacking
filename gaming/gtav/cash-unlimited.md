@@ -11,6 +11,4 @@
     - You will upgrade, and search for a new price until the address list reduce to a single address
     - The last address is the car price, you can edit the price and save the address to any value desired.
                
-- 5: Upgrade your vehicle and get a new price, reach in the address referent a new price
-- 6: Edit the vehicle price, to one amount of money that you desire get
 - 7: Sell the car for one unlimited or higher amount, make it without choose one high amount only the necessary.
